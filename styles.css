@@ -1,0 +1,59 @@
+.agri { 
+    background-color: #A2FF86;
+}
+
+
+.dripdown {
+    margin-right: 100px;
+}
+
+.main {
+    height: 500px;
+    background-image: url('agri.jpeg');
+}
+
+.main h1{
+    padding-top: 7%;
+    margin-left: 34%;
+    font-size: 100;
+    color: #0E2954;
+}
+
+.main p{
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 1%;
+    margin-left: 24%;
+    font-size: 40;
+    color: #482121;
+    width: 50%;
+}
+
+.queries {
+    height: 500px;  
+    background-color: white; 
+}
+
+.queries img {
+    margin-left: 10%;
+    margin-top: 3%;
+    width: 490px;
+    height: 350px;
+}
+
+
+.col h1 {
+    font-size: 50;
+    margin-top: 20%;
+    text-align: center;
+}
+
+.col p {
+    font-size: 28;
+    margin-top: 1%;
+    text-align: center;
+}
+
+footer {
+    margin-left: 43%;
+}
